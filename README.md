@@ -1,8 +1,10 @@
-# React + Vite
+# ToDoList
+Personnal project for my portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**URL adress** : [todolist.aliceosdel.dev](https://todolist.aliceosdel.dev)
 
-Currently, two official plugins are available:
+**Front** : Html, Scss, Javascript, [React](https://react.dev/) & [Vite](https://vitejs.dev/) </br>
+**Backend** : Pas de back (pour le moment)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![screenshot]([https://github.com/aliceout/TodoList/assets/10231985/5585d007-d135-4a0d-89c6-fe2665551d98](https://github.com/aliceout/TodoList/blob/main/screenshot.png))
+
