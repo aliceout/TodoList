@@ -3,7 +3,7 @@ Personnal project for my portfolio
 
 **URL adress** : [todolist.aliceosdel.dev](https://todolist.aliceosdel.dev)
 
-**Front** : Html, Scss, Javascript, [React](https://react.dev/) & [Vite](https://vitejs.dev/) </br>
+**Front** : Html, Css, Javascript ([React](https://react.dev/) & [Vite](https://vitejs.dev/)) </br>
 **Backend** : Pas de back (pour le moment)
 
 
